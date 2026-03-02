@@ -7,10 +7,9 @@
   ],
   "license": "ISC",
   "author": "param savla",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js"
   },
   "dependencies": {
     "dotenv": "^17.3.1",
