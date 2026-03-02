@@ -16,7 +16,7 @@ app.get('/login', (req, res) => {
 })
 
 app.get('/github', (req, res) => {
-	res.send("<a href=\"https://github.com/paramsavla06/backend-learning\">Github link to its own repo<>")
+	res.send("<a href=\"https://github.com/paramsavla06/backend-learning\">Github link to its own repo")
 })
 
 app.listen(process.env.PORT, () => {
