@@ -12,7 +12,7 @@ app.get('/x', (req, res) => {
 })
 
 app.get('/login', (req, res) => {
-	res.send("<h1>Please login at my server</h1>")
+	res.send("<h1>Please login at my server, just another checking round for tp</h1>")
 })
 
 app.get('/github', (req, res) => {
