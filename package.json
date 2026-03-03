@@ -9,7 +9,7 @@
   "author": "param savla",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "dotenv": "^17.3.1",
